@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Bronze <br>
 **Technology:** PHP, HTML, CSS <br>
 **Category:** Utility Script <br>
-**Order:** 3 <br>
+**Order:** 10 <br>
 
 ## Parameters
 

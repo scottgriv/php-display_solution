@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- Author: Scott Grivner -->
-<!-- Website: scottgrivner.dev -->
+<!-- Website: linktr.ee/scottgriv -->
 <!-- Abstract: Display Solution -->
 <html>
 <!--<meta http-equiv="refresh" content="300">-->
